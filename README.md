@@ -4,8 +4,6 @@
 
 I’m currently working on my [bachelor's project](https://github.com/TorsteinAE/BachelorPrototype) in Computer Science.
 
----
-
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
