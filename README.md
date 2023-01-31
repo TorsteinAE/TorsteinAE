@@ -6,7 +6,7 @@ Data Engineer
 
 * 🌍  I'm based in Bergen
 * ✉️  You can contact me at [torstein.sin@hotmail.com](mailto:torstein.sin@hotmail.com)
-* 🚀  I'm currently working on [Bachelors](http://github.com/TorsteinAE/BachelorPrototype)
+* 🚀  I'm currently working on my [Bachelors](http://github.com/TorsteinAE/Bachelor) project
 
 ### Skills
 
