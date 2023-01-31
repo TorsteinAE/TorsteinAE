@@ -30,7 +30,7 @@ Data Engineer
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" /></a>
-<a href="https://vim.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="36" height="36" alt="Vim" /></a>
+<a href="https://www.vim.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="36" height="36" alt="Vim" /></a>
 </p>
 
 
