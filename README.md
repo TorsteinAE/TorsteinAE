@@ -3,14 +3,11 @@ Hi! My name is Torstein
 
 Data Engineer
 -------------
-
 * 🌍  I'm based in Bergen
 * ✉️  You can contact me at [torstein.sin@hotmail.com](mailto:torstein.sin@hotmail.com)
 * 🚀  I'm currently working on my [Bachelors project](http://github.com/TorsteinAE/Bachelor) at Western Norway University of Applied Sciences
 
-### Skills
-
-
+### Languages and Tools
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring" /></a>
