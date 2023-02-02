@@ -1,8 +1,5 @@
-Hi! My name is Torstein
-=============================================================================================================================================
-
-Data Engineer
--------------
+#Torstein
+##Data Engineer
 * 🌍  I'm based in Bergen
 * ✉️  You can contact me at [torstein.sin@hotmail.com](mailto:torstein.sin@hotmail.com)
 * 🚀  I'm currently working on my [Bachelors project](http://github.com/TorsteinAE/Bachelor) at Western Norway University of Applied Sciences
