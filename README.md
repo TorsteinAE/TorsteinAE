@@ -1,5 +1,5 @@
 # Torstein
-## Data Engineer
+## CS Student & TA
 * 🌍  I'm based in Bergen
 * ✉️  You can contact me at [torstein.sin@hotmail.com](mailto:torstein.sin@hotmail.com)
 * 🚀  I'm currently working on my Bachelors project at Western Norway University of Applied Sciences
