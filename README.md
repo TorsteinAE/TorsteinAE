@@ -1,5 +1,5 @@
 # Torstein
-**`CS Student & TA`**
+**`Full Stack Software Engineer`**
 * 🌍  I'm based in Bergen, Norway
 * ✉️  You can contact me at [torstein.sin@hotmail.com](mailto:torstein.sin@hotmail.com)
 * 🚀  I just got done with my Bachelors at Western Norway University of Applied Sciences
@@ -10,7 +10,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
-<a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_0x.png" width="36" height="36" alt="MatPlotLib" /></a>
+<a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_00x.png" width="36" height="36" alt="MatPlotLib" /></a>
 <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" /></a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" /></a>  
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
