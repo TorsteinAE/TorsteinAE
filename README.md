@@ -2,7 +2,7 @@
 **`Full Stack Software Engineer`**
 * 🌍  I'm based in Bergen, Norway
 * ✉️  You can contact me at [torstein.sin@hotmail.com](mailto:torstein.sin@hotmail.com)
-* 🚀  I just got done with my Bachelors at Western Norway University of Applied Sciences
+* 🚀  I working on well control at SLB
 
 ### Languages and Tools
 <p align="left">
